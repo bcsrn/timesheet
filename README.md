@@ -6,9 +6,13 @@ do not use root user - requires sudo, won't be able to connect to database ia ph
 
 To Do:
 
-1. Set up database connection
-2. Create table for users - id, email, password
-3. Set up login and register service
-4. create time entry database
-5. create required columns for that
+~~1. Set up database connection~~
+~~2. Create table for users - id, email, password~~
+~~3. Set up login and register service~~
+~~4. create time entry database~~
+~~5. create required columns for that~~
 6. create managers table
+
+Week 2 Update:
+7. Create dates drop down columns
+8. Logic for timesheet table post
